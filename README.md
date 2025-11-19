@@ -7,6 +7,8 @@
 </div>
 
 # Example Dependabot CLI Usage
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMicrosofthg%2Fexample-cli-usage.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMicrosofthg%2Fexample-cli-usage?ref=badge_shield)
+
 
 This repo serves as an example of how to use Dependabot CLI for updates. It is intended as a starting point for advanced users to run a self-hosted version of Dependabot within their own projects.
 
@@ -40,3 +42,7 @@ If there is a problem with running the Dependabot CLI, report that in the [CLI r
 
 We do not provide direct support for the scripts and workflows in this repo, this is only to serve as an example.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMicrosofthg%2Fexample-cli-usage.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMicrosofthg%2Fexample-cli-usage?ref=badge_large)
